@@ -2,4 +2,5 @@
 //! This file will be automatically rewritten by the copy-test command.
 
 mod week1_day1;
+mod week1_day2;
 mod harness;
